@@ -1,0 +1,65 @@
+
+    body {
+      background-color: rgb(25, 25, 25);
+      color: white;
+      font-family: Arial;
+    }
+
+    .RPStitle {
+      font-size: 25px;
+      font-weight: 600;
+    }
+
+    .result-css
+    {
+      font-size: 23px;
+      font-weight: 600;
+    }
+
+    .rockbtn {
+      background-color: transparent;
+      width: 120px;
+      height: 120px;
+      border-radius: 60px;
+      border: 3px solid white;
+      margin-right: 10px;
+      cursor: pointer;
+    }
+
+    .paperbtn
+    {
+      background-color: transparent;
+      width: 120px;
+      height: 120px;
+      border-radius: 60px;
+      border: 3px solid white;
+      margin-right: 10px;
+      cursor: pointer;
+    }
+    .scissorsbtn
+    {
+      background-color: transparent;
+      width: 120px;
+      height: 120px;
+      border-radius: 60px;
+      border: 3px solid white;
+      margin-right: 10px;
+      cursor: pointer;
+    }
+    .reset-css,
+    .autoplaybtn-css
+    {
+      cursor: pointer;
+      padding: 10px 19px 10px 19px ;
+      background-color: rgb(255, 255, 255);
+      font-size: 15px;
+      border: none;
+    }
+    .move-icon
+    {
+      height: 55px;
+    }
+    .score-css
+    {
+      margin-top: 60px;
+    }
